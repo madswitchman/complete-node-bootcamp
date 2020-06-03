@@ -1,6 +1,7 @@
 # User Defined
 README_project.md
 *.env
+cache/
 1-node-farm/
 2-how-node-works/
 3-asynchronous-JS/
@@ -88,7 +89,7 @@ web_modules/
 .env.test
 
 # parcel-bundler cache (https://parceljs.org/)
-.cache/
+.cache
 .parcel-cache
 
 # Next.js build output
