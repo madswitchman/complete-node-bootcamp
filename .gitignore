@@ -1,5 +1,6 @@
 # User Defined
 README_project.md
+*.env
 
 # Logs
 logs
